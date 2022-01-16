@@ -1,0 +1,471 @@
+kota/kabupaten,kecamatan,jenis_fasilitas_olahraga,jumlah
+Jakarta Selatan,Cilandak,Atletik,1
+Jakarta Selatan,Jagakarsa,Atletik,1
+Jakarta Selatan,Kebayoran Baru,Atletik,2
+Jakarta Selatan,Kebayoran Lama,Atletik,1
+Jakarta Selatan,Mampang Prapatan,Atletik,1
+Jakarta Selatan,Pancoran,Atletik,0
+Jakarta Selatan,Pasar Minggu,Atletik,2
+Jakarta Selatan,Pesanggrahan,Atletik,1
+Jakarta Selatan,Setiabudi,Atletik,1
+Jakarta Selatan,Tebet,Atletik,1
+Jakarta Timur,UP GJRT,Atletik,0
+Jakarta Timur,Fasilitas GOR Otista,Atletik,0
+Jakarta Timur,Duren Sawit,Atletik,0
+Jakarta Timur,Jatinegara,Atletik,0
+Jakarta Timur,Pulogadung,Atletik,1
+Jakarta Timur,Cakung,Atletik,0
+Jakarta Timur,Matraman,Atletik,0
+Jakarta Timur,Kramat Jati,Atletik,0
+Jakarta Timur,Makasar,Atletik,0
+Jakarta Timur,Pasar Rebo,Atletik,0
+Jakarta Timur,Ciracas,Atletik,0
+Jakarta Timur,Cipayung,Atletik,0
+Jakarta Timur,GOR PKP,Atletik,0
+Jakarta Pusat,Cempaka Putih,Atletik,0
+Jakarta Pusat,Johar Baru,Atletik,0
+Jakarta Pusat,Kemayoran,Atletik,0
+Jakarta Pusat,Gambir,Atletik,0
+Jakarta Pusat,Menteng,Atletik,0
+Jakarta Pusat,Senen,Atletik,0
+Jakarta Pusat,Tanah Abang,Atletik,0
+Jakarta Pusat,Sawah Besar,Atletik,0
+Jakarta Barat,UPT GRJB,Atletik,0
+Jakarta Barat,Grogol Petambutan,Atletik,0
+Jakarta Barat,Palmerah,Atletik,1
+Jakarta Barat,Kebon Jeruk,Atletik,1
+Jakarta Barat,Kembangan,Atletik,1
+Jakarta Barat,Cengkareng,Atletik,1
+Jakarta Barat,Kalideres,Atletik,0
+Jakarta Barat,Tambora,Atletik,0
+Jakarta Barat,Tamansari,Atletik,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,Atletik,0
+Jakarta Utara,Cilincing,Atletik,0
+Jakarta Utara,Koja,Atletik,2
+Jakarta Utara,Kelapa Gading,Atletik,0
+Jakarta Utara,Tanjung Priok,Atletik,0
+Jakarta Utara,Pademangan,Atletik,0
+Jakarta Utara,Penjaringan,Atletik,0
+Jakarta Selatan,Cilandak,Bola Basket,2
+Jakarta Selatan,Jagakarsa,Bola Basket,1
+Jakarta Selatan,Kebayoran Baru,Bola Basket,3
+Jakarta Selatan,Kebayoran Lama,Bola Basket,1
+Jakarta Selatan,Mampang Prapatan,Bola Basket,1
+Jakarta Selatan,Pancoran,Bola Basket,16
+Jakarta Selatan,Pasar Minggu,Bola Basket,2
+Jakarta Selatan,Pesanggrahan,Bola Basket,1
+Jakarta Selatan,Setiabudi,Bola Basket,3
+Jakarta Selatan,Tebet,Bola Basket,5
+Jakarta Timur,UP GJRT,Bola Basket,1
+Jakarta Timur,Fasilitas GOR Otista,Bola Basket,1
+Jakarta Timur,Duren Sawit,Bola Basket,1
+Jakarta Timur,Jatinegara,Bola Basket,0
+Jakarta Timur,Pulogadung,Bola Basket,2
+Jakarta Timur,Cakung,Bola Basket,1
+Jakarta Timur,Matraman,Bola Basket,1
+Jakarta Timur,Kramat Jati,Bola Basket,1
+Jakarta Timur,Makasar,Bola Basket,0
+Jakarta Timur,Pasar Rebo,Bola Basket,1
+Jakarta Timur,Ciracas,Bola Basket,0
+Jakarta Timur,Cipayung,Bola Basket,0
+Jakarta Timur,GOR PKP,Bola Basket,1
+Jakarta Pusat,Cempaka Putih,Bola Basket,0
+Jakarta Pusat,Johar Baru,Bola Basket,0
+Jakarta Pusat,Kemayoran,Bola Basket,0
+Jakarta Pusat,Gambir,Bola Basket,0
+Jakarta Pusat,Menteng,Bola Basket,0
+Jakarta Pusat,Senen,Bola Basket,0
+Jakarta Pusat,Tanah Abang,Bola Basket,0
+Jakarta Pusat,Sawah Besar,Bola Basket,0
+Jakarta Barat,UPT GRJB,Bola Basket,1
+Jakarta Barat,Grogol Petambutan,Bola Basket,0
+Jakarta Barat,Palmerah,Bola Basket,2
+Jakarta Barat,Kebon Jeruk,Bola Basket,1
+Jakarta Barat,Kembangan,Bola Basket,1
+Jakarta Barat,Cengkareng,Bola Basket,2
+Jakarta Barat,Kalideres,Bola Basket,1
+Jakarta Barat,Tambora,Bola Basket,0
+Jakarta Barat,Tamansari,Bola Basket,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,Bola Basket,2
+Jakarta Utara,Cilincing,Bola Basket,1
+Jakarta Utara,Koja,Bola Basket,0
+Jakarta Utara,Kelapa Gading,Bola Basket,1
+Jakarta Utara,Tanjung Priok,Bola Basket,0
+Jakarta Utara,Pademangan,Bola Basket,0
+Jakarta Utara,Penjaringan,Bola Basket,1
+Jakarta Selatan,Cilandak,Bola Voli,2
+Jakarta Selatan,Jagakarsa,Bola Voli,2
+Jakarta Selatan,Kebayoran Baru,Bola Voli,4
+Jakarta Selatan,Kebayoran Lama,Bola Voli,1
+Jakarta Selatan,Mampang Prapatan,Bola Voli,1
+Jakarta Selatan,Pancoran,Bola Voli,16
+Jakarta Selatan,Pasar Minggu,Bola Voli,8
+Jakarta Selatan,Pesanggrahan,Bola Voli,1
+Jakarta Selatan,Setiabudi,Bola Voli,10
+Jakarta Selatan,Tebet,Bola Voli,10
+Jakarta Timur,UP GJRT,Bola Voli,1
+Jakarta Timur,Fasilitas GOR Otista,Bola Voli,1
+Jakarta Timur,Duren Sawit,Bola Voli,2
+Jakarta Timur,Jatinegara,Bola Voli,0
+Jakarta Timur,Pulogadung,Bola Voli,0
+Jakarta Timur,Cakung,Bola Voli,0
+Jakarta Timur,Matraman,Bola Voli,1
+Jakarta Timur,Kramat Jati,Bola Voli,0
+Jakarta Timur,Makasar,Bola Voli,0
+Jakarta Timur,Pasar Rebo,Bola Voli,1
+Jakarta Timur,Ciracas,Bola Voli,0
+Jakarta Timur,Cipayung,Bola Voli,1
+Jakarta Timur,GOR PKP,Bola Voli,0
+Jakarta Pusat,Cempaka Putih,Bola Voli,0
+Jakarta Pusat,Johar Baru,Bola Voli,0
+Jakarta Pusat,Kemayoran,Bola Voli,0
+Jakarta Pusat,Gambir,Bola Voli,0
+Jakarta Pusat,Menteng,Bola Voli,0
+Jakarta Pusat,Senen,Bola Voli,0
+Jakarta Pusat,Tanah Abang,Bola Voli,0
+Jakarta Pusat,Sawah Besar,Bola Voli,0
+Jakarta Barat,UPT GRJB,Bola Voli,1
+Jakarta Barat,Grogol Petambutan,Bola Voli,0
+Jakarta Barat,Palmerah,Bola Voli,1
+Jakarta Barat,Kebon Jeruk,Bola Voli,1
+Jakarta Barat,Kembangan,Bola Voli,1
+Jakarta Barat,Cengkareng,Bola Voli,5
+Jakarta Barat,Kalideres,Bola Voli,1
+Jakarta Barat,Tambora,Bola Voli,0
+Jakarta Barat,Tamansari,Bola Voli,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,Bola Voli,5
+Jakarta Utara,Cilincing,Bola Voli,1
+Jakarta Utara,Koja,Bola Voli,0
+Jakarta Utara,Kelapa Gading,Bola Voli,1
+Jakarta Utara,Tanjung Priok,Bola Voli,0
+Jakarta Utara,Pademangan,Bola Voli,0
+Jakarta Utara,Penjaringan,Bola Voli,2
+Jakarta Selatan,Cilandak,Bulutangkis,5
+Jakarta Selatan,Jagakarsa,Bulutangkis,4
+Jakarta Selatan,Kebayoran Baru,Bulutangkis,5
+Jakarta Selatan,Kebayoran Lama,Bulutangkis,4
+Jakarta Selatan,Mampang Prapatan,Bulutangkis,19
+Jakarta Selatan,Pancoran,Bulutangkis,24
+Jakarta Selatan,Pasar Minggu,Bulutangkis,11
+Jakarta Selatan,Pesanggrahan,Bulutangkis,4
+Jakarta Selatan,Setiabudi,Bulutangkis,20
+Jakarta Selatan,Tebet,Bulutangkis,13
+Jakarta Timur,UP GJRT,Bulutangkis,2
+Jakarta Timur,Fasilitas GOR Otista,Bulutangkis,2
+Jakarta Timur,Duren Sawit,Bulutangkis,5
+Jakarta Timur,Jatinegara,Bulutangkis,3
+Jakarta Timur,Pulogadung,Bulutangkis,5
+Jakarta Timur,Cakung,Bulutangkis,3
+Jakarta Timur,Matraman,Bulutangkis,4
+Jakarta Timur,Kramat Jati,Bulutangkis,2
+Jakarta Timur,Makasar,Bulutangkis,4
+Jakarta Timur,Pasar Rebo,Bulutangkis,3
+Jakarta Timur,Ciracas,Bulutangkis,5
+Jakarta Timur,Cipayung,Bulutangkis,3
+Jakarta Timur,GOR PKP,Bulutangkis,0
+Jakarta Pusat,Cempaka Putih,Bulutangkis,0
+Jakarta Pusat,Johar Baru,Bulutangkis,0
+Jakarta Pusat,Kemayoran,Bulutangkis,0
+Jakarta Pusat,Gambir,Bulutangkis,0
+Jakarta Pusat,Menteng,Bulutangkis,0
+Jakarta Pusat,Senen,Bulutangkis,0
+Jakarta Pusat,Tanah Abang,Bulutangkis,0
+Jakarta Pusat,Sawah Besar,Bulutangkis,0
+Jakarta Barat,UPT GRJB,Bulutangkis,3
+Jakarta Barat,Grogol Petambutan,Bulutangkis,5
+Jakarta Barat,Palmerah,Bulutangkis,3
+Jakarta Barat,Kebon Jeruk,Bulutangkis,4
+Jakarta Barat,Kembangan,Bulutangkis,3
+Jakarta Barat,Cengkareng,Bulutangkis,9
+Jakarta Barat,Kalideres,Bulutangkis,4
+Jakarta Barat,Tambora,Bulutangkis,4
+Jakarta Barat,Tamansari,Bulutangkis,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,Bulutangkis,23
+Jakarta Utara,Cilincing,Bulutangkis,4
+Jakarta Utara,Koja,Bulutangkis,0
+Jakarta Utara,Kelapa Gading,Bulutangkis,0
+Jakarta Utara,Tanjung Priok,Bulutangkis,4
+Jakarta Utara,Pademangan,Bulutangkis,0
+Jakarta Utara,Penjaringan,Bulutangkis,2
+Jakarta Selatan,Cilandak,Golf,0
+Jakarta Selatan,Jagakarsa,Golf,0
+Jakarta Selatan,Kebayoran Baru,Golf,0
+Jakarta Selatan,Kebayoran Lama,Golf,1
+Jakarta Selatan,Mampang Prapatan,Golf,0
+Jakarta Selatan,Pancoran,Golf,0
+Jakarta Selatan,Pasar Minggu,Golf,0
+Jakarta Selatan,Pesanggrahan,Golf,0
+Jakarta Selatan,Setiabudi,Golf,0
+Jakarta Selatan,Tebet,Golf,0
+Jakarta Timur,UP GJRT,Golf,0
+Jakarta Timur,Fasilitas GOR Otista,Golf,0
+Jakarta Timur,Duren Sawit,Golf,0
+Jakarta Timur,Jatinegara,Golf,0
+Jakarta Timur,Pulogadung,Golf,0
+Jakarta Timur,Cakung,Golf,0
+Jakarta Timur,Matraman,Golf,0
+Jakarta Timur,Kramat Jati,Golf,0
+Jakarta Timur,Makasar,Golf,0
+Jakarta Timur,Pasar Rebo,Golf,0
+Jakarta Timur,Ciracas,Golf,0
+Jakarta Timur,Cipayung,Golf,0
+Jakarta Timur,GOR PKP,Golf,0
+Jakarta Pusat,Cempaka Putih,Golf,0
+Jakarta Pusat,Johar Baru,Golf,0
+Jakarta Pusat,Kemayoran,Golf,0
+Jakarta Pusat,Gambir,Golf,0
+Jakarta Pusat,Menteng,Golf,0
+Jakarta Pusat,Senen,Golf,0
+Jakarta Pusat,Tanah Abang,Golf,0
+Jakarta Pusat,Sawah Besar,Golf,0
+Jakarta Barat,UPT GRJB,Golf,0
+Jakarta Barat,Grogol Petambutan,Golf,0
+Jakarta Barat,Palmerah,Golf,0
+Jakarta Barat,Kebon Jeruk,Golf,0
+Jakarta Barat,Kembangan,Golf,0
+Jakarta Barat,Cengkareng,Golf,0
+Jakarta Barat,Kalideres,Golf,0
+Jakarta Barat,Tambora,Golf,0
+Jakarta Barat,Tamansari,Golf,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,Golf,0
+Jakarta Utara,Cilincing,Golf,0
+Jakarta Utara,Koja,Golf,0
+Jakarta Utara,Kelapa Gading,Golf,0
+Jakarta Utara,Tanjung Priok,Golf,0
+Jakarta Utara,Pademangan,Golf,0
+Jakarta Utara,Penjaringan,Golf,0
+Jakarta Selatan,Cilandak,kolam renang,0
+Jakarta Selatan,Jagakarsa,kolam renang,0
+Jakarta Selatan,Kebayoran Baru,kolam renang,1
+Jakarta Selatan,Kebayoran Lama,kolam renang,1
+Jakarta Selatan,Mampang Prapatan,kolam renang,0
+Jakarta Selatan,Pancoran,kolam renang,3
+Jakarta Selatan,Pasar Minggu,kolam renang,3
+Jakarta Selatan,Pesanggrahan,kolam renang,0
+Jakarta Selatan,Setiabudi,kolam renang,1
+Jakarta Selatan,Tebet,kolam renang,1
+Jakarta Timur,UP GJRT,kolam renang,1
+Jakarta Timur,Fasilitas GOR Otista,kolam renang,0
+Jakarta Timur,Duren Sawit,kolam renang,0
+Jakarta Timur,Jatinegara,kolam renang,0
+Jakarta Timur,Pulogadung,kolam renang,0
+Jakarta Timur,Cakung,kolam renang,0
+Jakarta Timur,Matraman,kolam renang,0
+Jakarta Timur,Kramat Jati,kolam renang,0
+Jakarta Timur,Makasar,kolam renang,0
+Jakarta Timur,Pasar Rebo,kolam renang,0
+Jakarta Timur,Ciracas,kolam renang,1
+Jakarta Timur,Cipayung,kolam renang,0
+Jakarta Timur,GOR PKP,kolam renang,0
+Jakarta Pusat,Cempaka Putih,kolam renang,0
+Jakarta Pusat,Johar Baru,kolam renang,0
+Jakarta Pusat,Kemayoran,kolam renang,0
+Jakarta Pusat,Gambir,kolam renang,1
+Jakarta Pusat,Menteng,kolam renang,0
+Jakarta Pusat,Senen,kolam renang,1
+Jakarta Pusat,Tanah Abang,kolam renang,0
+Jakarta Pusat,Sawah Besar,kolam renang,0
+Jakarta Barat,UPT GRJB,kolam renang,1
+Jakarta Barat,Grogol Petambutan,kolam renang,0
+Jakarta Barat,Palmerah,kolam renang,0
+Jakarta Barat,Kebon Jeruk,kolam renang,0
+Jakarta Barat,Kembangan,kolam renang,0
+Jakarta Barat,Cengkareng,kolam renang,0
+Jakarta Barat,Kalideres,kolam renang,0
+Jakarta Barat,Tambora,kolam renang,0
+Jakarta Barat,Tamansari,kolam renang,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,kolam renang,1
+Jakarta Utara,Cilincing,kolam renang,0
+Jakarta Utara,Koja,kolam renang,2
+Jakarta Utara,Kelapa Gading,kolam renang,0
+Jakarta Utara,Tanjung Priok,kolam renang,2
+Jakarta Utara,Pademangan,kolam renang,0
+Jakarta Utara,Penjaringan,kolam renang,0
+Jakarta Selatan,Cilandak,Sepakbola,0
+Jakarta Selatan,Jagakarsa,Sepakbola,2
+Jakarta Selatan,Kebayoran Baru,Sepakbola,2
+Jakarta Selatan,Kebayoran Lama,Sepakbola,1
+Jakarta Selatan,Mampang Prapatan,Sepakbola,0
+Jakarta Selatan,Pancoran,Sepakbola,8
+Jakarta Selatan,Pasar Minggu,Sepakbola,2
+Jakarta Selatan,Pesanggrahan,Sepakbola,1
+Jakarta Selatan,Setiabudi,Sepakbola,2
+Jakarta Selatan,Tebet,Sepakbola,1
+Jakarta Timur,UP GJRT,Sepakbola,0
+Jakarta Timur,Fasilitas GOR Otista,Sepakbola,0
+Jakarta Timur,Duren Sawit,Sepakbola,1
+Jakarta Timur,Jatinegara,Sepakbola,0
+Jakarta Timur,Pulogadung,Sepakbola,0
+Jakarta Timur,Cakung,Sepakbola,1
+Jakarta Timur,Matraman,Sepakbola,0
+Jakarta Timur,Kramat Jati,Sepakbola,0
+Jakarta Timur,Makasar,Sepakbola,0
+Jakarta Timur,Pasar Rebo,Sepakbola,2
+Jakarta Timur,Ciracas,Sepakbola,2
+Jakarta Timur,Cipayung,Sepakbola,3
+Jakarta Timur,GOR PKP,Sepakbola,0
+Jakarta Pusat,Cempaka Putih,Sepakbola,0
+Jakarta Pusat,Johar Baru,Sepakbola,0
+Jakarta Pusat,Kemayoran,Sepakbola,1
+Jakarta Pusat,Gambir,Sepakbola,0
+Jakarta Pusat,Menteng,Sepakbola,0
+Jakarta Pusat,Senen,Sepakbola,0
+Jakarta Pusat,Tanah Abang,Sepakbola,2
+Jakarta Pusat,Sawah Besar,Sepakbola,0
+Jakarta Barat,UPT GRJB,Sepakbola,0
+Jakarta Barat,Grogol Petambutan,Sepakbola,0
+Jakarta Barat,Palmerah,Sepakbola,1
+Jakarta Barat,Kebon Jeruk,Sepakbola,1
+Jakarta Barat,Kembangan,Sepakbola,0
+Jakarta Barat,Cengkareng,Sepakbola,1
+Jakarta Barat,Kalideres,Sepakbola,2
+Jakarta Barat,Tambora,Sepakbola,1
+Jakarta Barat,Tamansari,Sepakbola,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,Sepakbola,3
+Jakarta Utara,Cilincing,Sepakbola,2
+Jakarta Utara,Koja,Sepakbola,2
+Jakarta Utara,Kelapa Gading,Sepakbola,0
+Jakarta Utara,Tanjung Priok,Sepakbola,1
+Jakarta Utara,Pademangan,Sepakbola,0
+Jakarta Utara,Penjaringan,Sepakbola,2
+Jakarta Selatan,Cilandak,stadion,0
+Jakarta Selatan,Jagakarsa,stadion,0
+Jakarta Selatan,Kebayoran Baru,stadion,0
+Jakarta Selatan,Kebayoran Lama,stadion,0
+Jakarta Selatan,Mampang Prapatan,stadion,0
+Jakarta Selatan,Pancoran,stadion,0
+Jakarta Selatan,Pasar Minggu,stadion,1
+Jakarta Selatan,Pesanggrahan,stadion,0
+Jakarta Selatan,Setiabudi,stadion,1
+Jakarta Selatan,Tebet,stadion,1
+Jakarta Timur,UP GJRT,stadion,0
+Jakarta Timur,Fasilitas GOR Otista,stadion,0
+Jakarta Timur,Duren Sawit,stadion,1
+Jakarta Timur,Jatinegara,stadion,0
+Jakarta Timur,Pulogadung,stadion,1
+Jakarta Timur,Cakung,stadion,0
+Jakarta Timur,Matraman,stadion,0
+Jakarta Timur,Kramat Jati,stadion,0
+Jakarta Timur,Makasar,stadion,0
+Jakarta Timur,Pasar Rebo,stadion,0
+Jakarta Timur,Ciracas,stadion,1
+Jakarta Timur,Cipayung,stadion,0
+Jakarta Timur,GOR PKP,stadion,0
+Jakarta Pusat,Cempaka Putih,stadion,0
+Jakarta Pusat,Johar Baru,stadion,0
+Jakarta Pusat,Kemayoran,stadion,0
+Jakarta Pusat,Gambir,stadion,1
+Jakarta Pusat,Menteng,stadion,0
+Jakarta Pusat,Senen,stadion,0
+Jakarta Pusat,Tanah Abang,stadion,0
+Jakarta Pusat,Sawah Besar,stadion,1
+Jakarta Barat,UPT GRJB,stadion,0
+Jakarta Barat,Grogol Petambutan,stadion,0
+Jakarta Barat,Palmerah,stadion,0
+Jakarta Barat,Kebon Jeruk,stadion,1
+Jakarta Barat,Kembangan,stadion,1
+Jakarta Barat,Cengkareng,stadion,1
+Jakarta Barat,Kalideres,stadion,0
+Jakarta Barat,Tambora,stadion,0
+Jakarta Barat,Tamansari,stadion,1
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,stadion,0
+Jakarta Utara,Cilincing,stadion,0
+Jakarta Utara,Koja,stadion,0
+Jakarta Utara,Kelapa Gading,stadion,0
+Jakarta Utara,Tanjung Priok,stadion,0
+Jakarta Utara,Pademangan,stadion,0
+Jakarta Utara,Penjaringan,stadion,0
+Jakarta Selatan,Cilandak,tenis,1
+Jakarta Selatan,Jagakarsa,tenis,1
+Jakarta Selatan,Kebayoran Baru,tenis,4
+Jakarta Selatan,Kebayoran Lama,tenis,0
+Jakarta Selatan,Mampang Prapatan,tenis,0
+Jakarta Selatan,Pancoran,tenis,15
+Jakarta Selatan,Pasar Minggu,tenis,2
+Jakarta Selatan,Pesanggrahan,tenis,0
+Jakarta Selatan,Setiabudi,tenis,2
+Jakarta Selatan,Tebet,tenis,2
+Jakarta Timur,UP GJRT,tenis,0
+Jakarta Timur,Fasilitas GOR Otista,tenis,0
+Jakarta Timur,Duren Sawit,tenis,1
+Jakarta Timur,Jatinegara,tenis,0
+Jakarta Timur,Pulogadung,tenis,0
+Jakarta Timur,Cakung,tenis,0
+Jakarta Timur,Matraman,tenis,0
+Jakarta Timur,Kramat Jati,tenis,0
+Jakarta Timur,Makasar,tenis,0
+Jakarta Timur,Pasar Rebo,tenis,0
+Jakarta Timur,Ciracas,tenis,1
+Jakarta Timur,Cipayung,tenis,0
+Jakarta Timur,GOR PKP,tenis,0
+Jakarta Pusat,Cempaka Putih,tenis,0
+Jakarta Pusat,Johar Baru,tenis,0
+Jakarta Pusat,Kemayoran,tenis,0
+Jakarta Pusat,Gambir,tenis,0
+Jakarta Pusat,Menteng,tenis,0
+Jakarta Pusat,Senen,tenis,0
+Jakarta Pusat,Tanah Abang,tenis,0
+Jakarta Pusat,Sawah Besar,tenis,0
+Jakarta Barat,UPT GRJB,tenis,0
+Jakarta Barat,Grogol Petambutan,tenis,0
+Jakarta Barat,Palmerah,tenis,2
+Jakarta Barat,Kebon Jeruk,tenis,0
+Jakarta Barat,Kembangan,tenis,0
+Jakarta Barat,Cengkareng,tenis,1
+Jakarta Barat,Kalideres,tenis,0
+Jakarta Barat,Tambora,tenis,0
+Jakarta Barat,Tamansari,tenis,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,tenis,1
+Jakarta Utara,Cilincing,tenis,0
+Jakarta Utara,Koja,tenis,2
+Jakarta Utara,Kelapa Gading,tenis,7
+Jakarta Utara,Tanjung Priok,tenis,0
+Jakarta Utara,Pademangan,tenis,0
+Jakarta Utara,Penjaringan,tenis,0
+Jakarta Selatan,Cilandak,tenis meja,0
+Jakarta Selatan,Jagakarsa,tenis meja,0
+Jakarta Selatan,Kebayoran Baru,tenis meja,0
+Jakarta Selatan,Kebayoran Lama,tenis meja,0
+Jakarta Selatan,Mampang Prapatan,tenis meja,8
+Jakarta Selatan,Pancoran,tenis meja,15
+Jakarta Selatan,Pasar Minggu,tenis meja,1
+Jakarta Selatan,Pesanggrahan,tenis meja,0
+Jakarta Selatan,Setiabudi,tenis meja,0
+Jakarta Selatan,Tebet,tenis meja,8
+Jakarta Timur,UP GJRT,tenis meja,0
+Jakarta Timur,Fasilitas GOR Otista,tenis meja,0
+Jakarta Timur,Duren Sawit,tenis meja,0
+Jakarta Timur,Jatinegara,tenis meja,0
+Jakarta Timur,Pulogadung,tenis meja,0
+Jakarta Timur,Cakung,tenis meja,0
+Jakarta Timur,Matraman,tenis meja,0
+Jakarta Timur,Kramat Jati,tenis meja,0
+Jakarta Timur,Makasar,tenis meja,0
+Jakarta Timur,Pasar Rebo,tenis meja,0
+Jakarta Timur,Ciracas,tenis meja,0
+Jakarta Timur,Cipayung,tenis meja,0
+Jakarta Timur,GOR PKP,tenis meja,0
+Jakarta Pusat,Cempaka Putih,tenis meja,0
+Jakarta Pusat,Johar Baru,tenis meja,0
+Jakarta Pusat,Kemayoran,tenis meja,0
+Jakarta Pusat,Gambir,tenis meja,1
+Jakarta Pusat,Menteng,tenis meja,0
+Jakarta Pusat,Senen,tenis meja,0
+Jakarta Pusat,Tanah Abang,tenis meja,0
+Jakarta Pusat,Sawah Besar,tenis meja,0
+Jakarta Barat,UPT GRJB,tenis meja,0
+Jakarta Barat,Grogol Petambutan,tenis meja,0
+Jakarta Barat,Palmerah,tenis meja,0
+Jakarta Barat,Kebon Jeruk,tenis meja,2
+Jakarta Barat,Kembangan,tenis meja,1
+Jakarta Barat,Cengkareng,tenis meja,5
+Jakarta Barat,Kalideres,tenis meja,0
+Jakarta Barat,Tambora,tenis meja,0
+Jakarta Barat,Tamansari,tenis meja,0
+Jakarta Utara,UP Gelanggang Remaja Jakarta Utara,tenis meja,5
+Jakarta Utara,Cilincing,tenis meja,0
+Jakarta Utara,Koja,tenis meja,0
+Jakarta Utara,Kelapa Gading,tenis meja,0
+Jakarta Utara,Tanjung Priok,tenis meja,0
+Jakarta Utara,Pademangan,tenis meja,0
+Jakarta Utara,Penjaringan,tenis meja,0
